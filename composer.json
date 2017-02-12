@@ -1,6 +1,6 @@
 {
     "name": "himanverma/apidocs",
-    "description": "Boilerplate package for creating other packages.",
+    "description": "Create Documentations for your APIs and export them to POSTMAN collections.",
     "keywords": ["api", "documentation", "postman", "collection"],
     "license": "GPL",
     "authors": [
