@@ -1,0 +1,25 @@
+{
+    "name": "Himanverma/Apidocs",
+    "description": "Boilerplate package for creating other packages.",
+    "keywords": ["api", "documentation", "postman", "collection"],
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Himanshu Verma",
+            "email": "himan.verma@live.com",
+            "homepage": "https://in.linkedin.com/in/himanshu-verma-5397a221"
+        }
+    ],
+    "homepage": "https://github.com/himanverma/api-docs",
+    "require": {
+        "php": ">=5.4",
+        "zeptech/annotations": "^1.1"
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Himanverma\\Apidocs\\": "src/"
+        }
+    }
+}
