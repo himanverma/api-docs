@@ -1,5 +1,5 @@
 {
-    "name": "Himanverma/Apidocs",
+    "name": "himanverma/apidocs",
     "description": "Boilerplate package for creating other packages.",
     "keywords": ["api", "documentation", "postman", "collection"],
     "license": "GPL",
