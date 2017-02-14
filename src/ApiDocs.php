@@ -94,5 +94,9 @@ class ApiDocs{
                     ->header("Content-Disposition", " attachment; filename=" . $appName . ".postman_collection")
                     ->header("Pragma", "no-cache");
     }
+    
+    public function createDocHtml(){
+        
+    }
  
 }
